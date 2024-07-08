@@ -17,6 +17,6 @@ train.py and test.py implement training and testing functions respectively.<br>
 eval.py is used to evaluate our model
 # Acknowledgement
 Our code is extended from the following repositories. We thank the authors for releasing the codes.<br>
-[BGNet](https://github.com/thograce/BGNet)  
-[PVT](https://github.com/whai362/PVT)
+●[BGNet](https://github.com/thograce/BGNet)  
+●[PVT](https://github.com/whai362/PVT)
 
