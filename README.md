@@ -7,11 +7,11 @@
 3.others packages can be found at requirement.txt  <br>
 # start
 ```javascript
-<script>
 conda create --name myenv python=3.8.19 <br>
 conda activate myenv <br>
 pip install -r requirements.txt <br>
-</script>
+```
+
 #  Training/Testing/evaluating
 train.py and test.py implement training and testing functions respectively.<br>
 eval.py is used to evaluate our model
