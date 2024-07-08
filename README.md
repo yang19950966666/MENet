@@ -15,8 +15,11 @@ pip install -r requirements.txt
 #  Training/Testing/evaluating
 train.py and test.py implement training and testing functions respectively.<br>
 eval.py is used to evaluate our model
+# Results
+![微信截图_20240708170003](https://github.com/yang19950966666/MENet/assets/150333424/a967f727-f5af-4b60-b5a6-df0e21ae1cf2)
+
 # Acknowledgement
 Our code is extended from the following repositories. We thank the authors for releasing the codes.<br>
-●[BGNet](https://github.com/thograce/BGNet)  
-●[PVT](https://github.com/whai362/PVT)
+  ●[BGNet](https://github.com/thograce/BGNet)  
+  ●[PVT](https://github.com/whai362/PVT)
 
