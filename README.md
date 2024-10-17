@@ -1,5 +1,5 @@
 # MENet:Multi-level feature fusion network with edge information enhancement
-![Network](https://github.com/yang19950966666/MENet/assets/150333424/d6f082ca-82b3-44ad-8500-1b8ad3ec4549)
+![Network](https://github.com/user-attachments/assets/5197a632-f78d-4d26-b036-d271df6bf3db)
 
 # environment
 1.python=3.8.19 <br>
